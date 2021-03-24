@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="64" started-at="2020-10-08T15:56:52Z" finished-at="2020-10-08T15:56:52Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="64" started-at="2020-10-08T15:56:52Z" finished-at="2020-10-08T15:56:52Z">
+      <class name="abcdacademy.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAUtomation()[pri:0, instance:abcdacademy.SeleniumTest@5d624da6]" name="BrowserAUtomation" duration-ms="1" started-at="2020-10-08T08:56:52Z" finished-at="2020-10-08T08:56:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAUtomation -->
+        <test-method status="PASS" signature="elementsUi()[pri:0, instance:abcdacademy.SeleniumTest@5d624da6]" name="elementsUi" duration-ms="1" started-at="2020-10-08T08:56:52Z" finished-at="2020-10-08T08:56:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUi -->
+      </class> <!-- abcdacademy.SeleniumTest -->
+      <class name="abcdacademy.AppiumTest">
+        <test-method status="PASS" signature="IOSApps()[pri:0, instance:abcdacademy.AppiumTest@246ae04d]" name="IOSApps" duration-ms="19" started-at="2020-10-08T08:56:52Z" finished-at="2020-10-08T08:56:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSApps -->
+        <test-method status="PASS" signature="NativeAPpAndroid()[pri:0, instance:abcdacademy.AppiumTest@246ae04d]" name="NativeAPpAndroid" duration-ms="0" started-at="2020-10-08T08:56:52Z" finished-at="2020-10-08T08:56:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAPpAndroid -->
+      </class> <!-- abcdacademy.AppiumTest -->
+      <class name="abcdacademy.RESTApiTest">
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:abcdacademy.RESTApiTest@2ef9b8bc]" name="deleteTwitter" duration-ms="0" started-at="2020-10-08T08:56:52Z" finished-at="2020-10-08T08:56:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method status="PASS" signature="postJira()[pri:0, instance:abcdacademy.RESTApiTest@2ef9b8bc]" name="postJira" duration-ms="0" started-at="2020-10-08T08:56:52Z" finished-at="2020-10-08T08:56:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- abcdacademy.RESTApiTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
